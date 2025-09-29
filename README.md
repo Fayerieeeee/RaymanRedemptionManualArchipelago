@@ -1,4 +1,6 @@
 # Rayman Redemption Manual Archipelago
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/0bfc83ac-b0c9-47a2-a3fe-59096f4629f8" />
+
 A manual apworld for [Rayman Redemption](https://gamejolt.com/games/raymanredemption/340532)! Not familiar with manual archipelago? Take a look [here](https://github.com/ManualForArchipelago)!
 
 Your main goal is to retrieve the Great Protoon from the evil Mr. Dark! There's two other goals if you're aiming for a harder challenge:
